@@ -1,5 +1,4 @@
-package Lista03;
-
+//Questão 2
 public class LampadaTresEstados2 {
     
     int Lampada = 100;

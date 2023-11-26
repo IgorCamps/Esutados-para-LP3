@@ -1,5 +1,4 @@
-package Lista03;
-
+//Questão 4
 public class ModeloLampada {
 
     boolean lampadaAcessa = true;

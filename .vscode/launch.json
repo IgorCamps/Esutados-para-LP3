@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LivroDeBiblioteca",
+            "request": "launch",
+            "mainClass": "Lista03.Questao11.LivroDeBiblioteca",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "LivroDeLivraria",
+            "request": "launch",
+            "mainClass": "Lista03.Questao10.LivroDeLivraria",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "Livro",
+            "request": "launch",
+            "mainClass": "Lista03.Questao9.Livro",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "HoraPrecisa",
+            "request": "launch",
+            "mainClass": "Lista03.Questao8.HoraPrecisa",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "HoraAproximada",
+            "request": "launch",
+            "mainClass": "Lista03.Questao7.HoraAproximada",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "Data",
+            "request": "launch",
+            "mainClass": "Lista03.Questao7.Data",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "ContaBancariaSimplificada",
+            "request": "launch",
+            "mainClass": "ContaBancariaSimplificada",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "ContaBancariaSimplificada",
+            "request": "launch",
+            "mainClass": "Lista03.ContaBancariaSimplificada",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
             "name": "modeloLampada",
             "request": "launch",
             "mainClass": "Lista03.modeloLampada",

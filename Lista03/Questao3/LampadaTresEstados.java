@@ -1,5 +1,4 @@
-package Lista03;
-
+//Questão 3
 public class LampadaTresEstados {
 
     String Lampada = "Acessa";
