@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NovoData",
+            "request": "launch",
+            "mainClass": "Lista03.Questao15.NovoData",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "DataAprimorado",
+            "request": "launch",
+            "mainClass": "Lista03.Questao16.DataAprimorado",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "Retangulo",
+            "request": "launch",
+            "mainClass": "Lista03.Questao14.Retangulo",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "Ponto",
+            "request": "launch",
+            "mainClass": "Lista03.Questao13.Ponto",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "Ponto2D",
+            "request": "launch",
+            "mainClass": "Lista03.Questao12.Ponto2D",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
             "name": "LivroDeBiblioteca",
             "request": "launch",
             "mainClass": "Lista03.Questao11.LivroDeBiblioteca",
