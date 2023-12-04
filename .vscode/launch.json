@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ponto2D",
+            "request": "launch",
+            "mainClass": "Lista04.Questoa4.Ponto2D",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "Contato",
+            "request": "launch",
+            "mainClass": "Lista04.Questao2.Contato",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "Data",
+            "request": "launch",
+            "mainClass": "Lista04.Questao1.Data",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
+            "name": "ExeData",
+            "request": "launch",
+            "mainClass": "Lista04.Questao1.ExeData",
+            "projectName": "Esutados-para-LP3_b1289faa"
+        },
+        {
+            "type": "java",
             "name": "NovoData",
             "request": "launch",
             "mainClass": "Lista03.Questao15.NovoData",
