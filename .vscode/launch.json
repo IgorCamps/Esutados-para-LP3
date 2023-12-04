@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Time",
+            "request": "launch",
+            "mainClass": "Lista05.Time",
+            "projectName": "Esutados-para-LP3_be40df8b"
+        },
+        {
+            "type": "java",
             "name": "Ponto2D",
             "request": "launch",
             "mainClass": "Lista04.Questoa4.Ponto2D",
